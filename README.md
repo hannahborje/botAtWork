@@ -1,0 +1,2 @@
+# botAtWork
+Slack bot
