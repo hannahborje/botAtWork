@@ -6,6 +6,6 @@ I am a lazy person, I admit. Everyday at work, we say god morning to each other 
 I have used Botkit for this bot, read more here https://github.com/howdyai/botkit. You need NPM. You also need Slack and a Slack token to run the bot, read more about it here https://api.slack.com/bot-users. 
 
 To run the bot from command line:
-token=<MY TOKEN> node slack_bot.js
+* token= YOUR_TOKEN_HERE node slack_bot.js
 
 Then invite the bot to your Slack channel :)
